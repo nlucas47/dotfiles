@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nepo4lucas@gmail.com
+	name = Lucas Nepomuceno
